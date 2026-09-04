@@ -7,7 +7,7 @@ about:
   head: 2937d2b
   archived: false
   latestVersion: helm-v2.19.3
-  collectedAt: 2026-09-04T19:32:46Z
+  collectedAt: 2026-09-04T21:00:54Z
 timeline:
   created: 2017-05-29
   lastCommit: 2026-09-03
@@ -88,6 +88,89 @@ total:
   openIssue: 66
   commit: 1676
 ---
+path: /home/runner/.x-repo/github.com/bitnami-labs/sealed-secrets
+collectedAt: 2026-09-04T21:00:56Z
+loc:
+  Go:
+    code: 8587
+    comments: 798
+    blanks: 1465
+    files: 63
+  Yaml:
+    code: 2320
+    comments: 400
+    blanks: 31
+    files: 32
+  Jsonnet:
+    code: 1514
+    comments: 208
+    blanks: 189
+    files: 23
+  Json:
+    code: 1405
+    comments: 0
+    blanks: 0
+    files: 9
+  Sass:
+    code: 1202
+    comments: 4
+    blanks: 44
+    files: 7
+  Html:
+    code: 589
+    comments: 4
+    blanks: 10
+    files: 27
+  Svg:
+    code: 356
+    comments: 0
+    blanks: 0
+    files: 24
+  Makefile:
+    code: 226
+    comments: 15
+    blanks: 72
+    files: 4
+  Pan:
+    code: 187
+    comments: 0
+    blanks: 16
+    files: 1
+  Bash:
+    code: 128
+    comments: 27
+    blanks: 22
+    files: 4
+  Dockerfile:
+    code: 29
+    comments: 0
+    blanks: 13
+    files: 3
+  JavaScript:
+    code: 18
+    comments: 0
+    blanks: 4
+    files: 1
+  Sh:
+    code: 16
+    comments: 1
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2946
+    blanks: 1363
+    files: 44
+  Text:
+    code: 0
+    comments: 32
+    blanks: 15
+    files: 3
+total:
+  code: 16850
+  comments: 4456
+  blanks: 3268
+  files: 246
 ---
 date: "2026-08-24"
 repo:
