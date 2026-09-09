@@ -2,20 +2,20 @@ about:
   description: "A Kubernetes controller and tool for one-way encrypted Secrets"
   license: Apache-2.0
   homepage: 
-  head: 2937d2b
+  head: 0b606ae
   archived: false
   latestVersion: "helm-v2.19.3"
   latestRelease: "helm-v2.19.3"
   latestPrerelease: "helm-v2.7.3"
-  collectedAt: 2026-09-09T06:04:21Z
+  collectedAt: 2026-09-09T20:51:54Z
 timeline:
   created: 2017-05-29
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-20
   lastRelease: 2026-08-20
   lastPrerelease: 2023-01-16
 popularity:
-  star: 9278
+  star: 9280
   watcher: 77
   fork: 774
   release: 202
@@ -84,14 +84,14 @@ recent:
     commit: 0
 total:
   release: 202
-  mergedPR: 1145
-  openPR: 4
+  mergedPR: 1147
+  openPR: 2
   closedIssue: 541
   openIssue: 66
-  commit: 1676
+  commit: 1678
 ---
 path: /home/runner/.x-repo/github.com/bitnami-labs/sealed-secrets
-collectedAt: 2026-09-09T06:04:27Z
+collectedAt: 2026-09-09T20:52:01Z
 loc:
   Go:
     code: 8587
