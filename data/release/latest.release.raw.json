@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-09-10T15:52:23Z",
-  "updated_at": "2026-09-10T16:10:29Z",
+  "updated_at": "2026-09-10T18:51:07Z",
   "published_at": "2026-09-10T16:10:29Z",
   "assets": [
     {
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11466,
       "digest": "sha256:ac8aabccdd9110430d117501705818115b2ab0993700a9c118d4d42cf4015a17",
-      "download_count": 45,
+      "download_count": 85,
       "created_at": "2026-09-10T16:10:27Z",
       "updated_at": "2026-09-10T16:10:27Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/controller.yaml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 25236810,
       "digest": "sha256:e165574e647029a562de2471caff444e06b33119f9546679e69492cdc3c6137f",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-10T16:10:25Z",
       "updated_at": "2026-09-10T16:10:26Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-darwin-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 23436482,
       "digest": "sha256:ec8a34b19ff8f1c1dee6fa09e13111b3007aa9ad08de1da28bd65cdc1eaecf93",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-10T16:10:23Z",
       "updated_at": "2026-09-10T16:10:24Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-darwin-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 23842243,
       "digest": "sha256:9314c35916646e9d59c8f06b1314574b4e79c4d76f079433607ed7b697bb5eb7",
-      "download_count": 134,
+      "download_count": 225,
       "created_at": "2026-09-10T16:10:23Z",
       "updated_at": "2026-09-10T16:10:24Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-linux-amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22300486,
       "digest": "sha256:19258ad92d11dc532ea9a2db6620899b563e192cbc72f27640475f51acc508a6",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-10T16:10:23Z",
       "updated_at": "2026-09-10T16:10:24Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-linux-arm.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 21552146,
       "digest": "sha256:d82f01e9226d194ca7ebc13e3619edefd596b5b433582bcec3d5a8e8b1a03123",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-09-10T16:10:23Z",
       "updated_at": "2026-09-10T16:10:24Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-linux-arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 24191270,
       "digest": "sha256:e43f3208b41709f69eea03059fcfe5688152543184ee0d7454f0e6d709466821",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-09-10T16:10:25Z",
       "updated_at": "2026-09-10T16:10:26Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-windows-amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 711,
       "digest": "sha256:3b189b9773487a8e48eb7dcc109455e14437113bee7aa7af0739e00106b384ca",
-      "download_count": 9,
+      "download_count": 45,
       "created_at": "2026-09-10T16:10:25Z",
       "updated_at": "2026-09-10T16:10:25Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/sealed-secrets_0.40.0_checksums.txt"
@@ -723,5 +723,5 @@
   ],
   "tarball_url": "https://api.github.com/repos/bitnami/sealed-secrets/tarball/v0.40.0",
   "zipball_url": "https://api.github.com/repos/bitnami/sealed-secrets/zipball/v0.40.0",
-  "body": "## v0.40.0 (2026-09-10T16:02:19Z)\n\nNew v0.40.0 release!\n\n## Changelog\n* 90293948e17bc0b5c7ef158e6c6a8b0a085675ec Add imports to force vendoring required codegen tools (#2020)\n* 641cd0191afbb3c807e1eb2099186ea4c2b2caa5 Bump Golang to 1.26.8 (#2050)\n* 20925c92ae52fde1620b1c75c73a7244029de499 Bump distroless/static from `9197324` to `f2ea270` in /docker (#2038)\n* 2937d2b6d52cca1b1e26dac4fcc999adcdc575bd Bump github.com/onsi/gomega from 1.42.1 to 1.43.0 (#2044)\n* 78f5131019b7f3720e8aab5f136b52f78a6d6353 Bump github.com/prometheus/client_model from 0.6.2 to 0.6.3 (#2047)\n* 0b606aeec3c4f7bf9b1fcb15afa13040df0d5250 Bump golang.org/x/crypto from 0.55.0 to 0.56.0 (#2048)\n* ecc92389cbc756882d40e38df745dba9452b98ec Bump k8s.io/api from 0.36.3 to 0.36.4 (#2037)\n* 2b184ce5b729d357fc3c5f4e288de8f1e44aca0f Bump k8s.io/client-go from 0.36.3 to 0.36.4 (#2039)\n* 5552a014e769e6232f351135e6e6cc2bdaa10304 Bump k8s.io/client-go from 0.36.4 to 0.37.0 (#2041)\n* b8609f7399e81d342da8e5df0a7799cd07a3ed1a Bump k8s.io/code-generator from 0.36.3 to 0.36.4 (#2036)\n* eddf8c225c1eed4fe2f00d00af54645362c7559c Bump k8s.io/code-generator from 0.36.4 to 0.37.0 (#2042)\n* 54c805dbf4ab7fae87cce28648da252e8c69347f Enable encryptedData to be omitted by setting key to null in template (#1871)\n* e27ce45b1626b9d398eb325e447a8de8be79f9cc Release carvel package 2.19.3 (#2032)\n* 7117727b801514f4c6e3b2cd23cdb74b81f57a86 Release notes 0.40.0 (#2052)\n* 32171b69d6e7e088f177a288b359739aa776c465 [Security] Stop /v1/rotate from acting as a decryption oracle (#2049)\n\n## Installation Instructions\n\n### Cluster-side\n\nInstall the SealedSecret CRD and server-side controller into the `kube-system` namespace:\n\n```sh\nkubectl apply -f https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/controller.yaml\n```\n\n### Client-side\n\nInstall the client-side tool into `/usr/local/bin/`:\n\n**Linux x86_64:**\n```sh\ncurl -OL \"https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-linux-amd64.tar.gz\"\ntar -xvzf kubeseal-0.40.0-linux-amd64.tar.gz kubeseal\nsudo install -m 755 kubeseal /usr/local/bin/kubeseal\n```\n\n**macOS:**\nThe `kubeseal` client is available on [homebrew](https://formulae.brew.sh/formula/kubeseal):\n\n```sh\nbrew install kubeseal\n```\n\n**MacPorts:**\n\nThe `kubeseal` client is available on [MacPorts](https://ports.macports.org/port/kubeseal/summary):\n\n```sh\nport install kubeseal\n```\n\n#### Nixpkgs\n\nThe `kubeseal` client is available on [Nixpkgs](https://search.nixos.org/packages?channel=unstable&show=kubeseal&from=0&size=50&sort=relevance&type=packages&query=kubeseal): (**DISCLAIMER**: Not maintained by bitnami)\n\n```sh\nnix-env -iA nixpkgs.kubeseal\n```\n\n**Other OS/Arch:**\nBinaries for other OS/arch combinations are attached to this release below.\n\nIf you just want the latest client tool, it can be installed into\n`$GOPATH/bin` with:\n\n```sh\ngo install github.com/bitnami/sealed-secrets/cmd/kubeseal@main\n```\n\nYou can specify a release tag or a commit SHA instead of `main`.\n\nThe `go install` command will place the `kubeseal` binary at `$GOPATH/bin`:\n\n```sh\n$(go env GOPATH)/bin/kubeseal\n```\n\n## Release Notes\n\nPlease read the [RELEASE_NOTES](https://github.com/bitnami/sealed-secrets/blob/main/RELEASE-NOTES.md) which contain among other things important information for those upgrading from previous releases.\n## Thanks!\n\n"
+  "body": "## v0.40.0 (2026-09-10T16:02:19Z)\r\n\r\nNew v0.40.0 release!\r\n\r\n## Changelog\r\n* 90293948e17bc0b5c7ef158e6c6a8b0a085675ec Add imports to force vendoring required codegen tools (#2020)\r\n* 641cd0191afbb3c807e1eb2099186ea4c2b2caa5 Bump Golang to 1.26.8 (#2050)\r\n* 20925c92ae52fde1620b1c75c73a7244029de499 Bump distroless/static from `9197324` to `f2ea270` in /docker (#2038)\r\n* 2937d2b6d52cca1b1e26dac4fcc999adcdc575bd Bump github.com/onsi/gomega from 1.42.1 to 1.43.0 (#2044)\r\n* 78f5131019b7f3720e8aab5f136b52f78a6d6353 Bump github.com/prometheus/client_model from 0.6.2 to 0.6.3 (#2047)\r\n* 0b606aeec3c4f7bf9b1fcb15afa13040df0d5250 Bump golang.org/x/crypto from 0.55.0 to 0.56.0 (#2048)\r\n* ecc92389cbc756882d40e38df745dba9452b98ec Bump k8s.io/api from 0.36.3 to 0.36.4 (#2037)\r\n* 2b184ce5b729d357fc3c5f4e288de8f1e44aca0f Bump k8s.io/client-go from 0.36.3 to 0.36.4 (#2039)\r\n* 5552a014e769e6232f351135e6e6cc2bdaa10304 Bump k8s.io/client-go from 0.36.4 to 0.37.0 (#2041)\r\n* b8609f7399e81d342da8e5df0a7799cd07a3ed1a Bump k8s.io/code-generator from 0.36.3 to 0.36.4 (#2036)\r\n* eddf8c225c1eed4fe2f00d00af54645362c7559c Bump k8s.io/code-generator from 0.36.4 to 0.37.0 (#2042)\r\n* 54c805dbf4ab7fae87cce28648da252e8c69347f Enable encryptedData to be omitted by setting key to null in template (#1871)\r\n* e27ce45b1626b9d398eb325e447a8de8be79f9cc Release carvel package 2.19.3 (#2032)\r\n* 7117727b801514f4c6e3b2cd23cdb74b81f57a86 Release notes 0.40.0 (#2052)\r\n* 32171b69d6e7e088f177a288b359739aa776c465 [Security] Stop /v1/rotate from acting as a decryption oracle (#2049)\r\n\r\n## Installation Instructions\r\n\r\n### Cluster-side\r\n\r\nInstall the SealedSecret CRD and server-side controller into the `kube-system` namespace:\r\n\r\n```sh\r\nkubectl apply -f https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/controller.yaml\r\n```\r\n\r\n### Client-side\r\n\r\nInstall the client-side tool into `/usr/local/bin/`:\r\n\r\n**Linux x86_64:**\r\n```sh\r\ncurl -OL \"https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-linux-amd64.tar.gz\"\r\ntar -xvzf kubeseal-0.40.0-linux-amd64.tar.gz kubeseal\r\nsudo install -m 755 kubeseal /usr/local/bin/kubeseal\r\n```\r\n\r\n**macOS:**\r\nThe `kubeseal` client is available on [homebrew](https://formulae.brew.sh/formula/kubeseal):\r\n\r\n```sh\r\nbrew install kubeseal\r\n```\r\n\r\n**MacPorts:**\r\n\r\nThe `kubeseal` client is available on [MacPorts](https://ports.macports.org/port/kubeseal/summary):\r\n\r\n```sh\r\nport install kubeseal\r\n```\r\n\r\n#### Nixpkgs\r\n\r\nThe `kubeseal` client is available on [Nixpkgs](https://search.nixos.org/packages?channel=unstable&show=kubeseal&from=0&size=50&sort=relevance&type=packages&query=kubeseal): (**DISCLAIMER**: Not maintained by bitnami)\r\n\r\n```sh\r\nnix-env -iA nixpkgs.kubeseal\r\n```\r\n\r\n**Other OS/Arch:**\r\nBinaries for other OS/arch combinations are attached to this release below.\r\n\r\nIf you just want the latest client tool, it can be installed into\r\n`$GOPATH/bin` with:\r\n\r\n```sh\r\ngo install github.com/bitnami/sealed-secrets/cmd/kubeseal@main\r\n```\r\n\r\nYou can specify a release tag or a commit SHA instead of `main`.\r\n\r\nThe `go install` command will place the `kubeseal` binary at `$GOPATH/bin`:\r\n\r\n```sh\r\n$(go env GOPATH)/bin/kubeseal\r\n```\r\n\r\n## Release Notes\r\n\r\nPlease read the [RELEASE_NOTES](https://github.com/bitnami/sealed-secrets/blob/main/RELEASE-NOTES.md) which contain among other things important information for those upgrading from previous releases.\r\n## Thanks!\r\n\r\n"
 }
