@@ -7,7 +7,7 @@ about:
   latestVersion: "helm-v2.20.0"
   latestRelease: "helm-v2.20.0"
   latestPrerelease: "helm-v2.7.3"
-  collectedAt: 2026-09-10T21:22:34Z
+  collectedAt: 2026-09-10T22:32:58Z
 timeline:
   created: 2017-05-29
   lastCommit: 2026-09-10
@@ -91,7 +91,7 @@ total:
   commit: 1684
 ---
 path: /home/runner/.x-repo/github.com/bitnami-labs/sealed-secrets
-collectedAt: 2026-09-10T21:22:38Z
+collectedAt: 2026-09-10T22:33:05Z
 loc:
   Go:
     code: 8724
