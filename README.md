@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,286 · **Forks**: 775 · **Open issues**: 607 · **Contributors**: 183
+- **Stars**: 9,287 · **Forks**: 775 · **Open issues**: 607 · **Contributors**: 183
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-12 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-14 | 21 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 36 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-20 | 52 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-12 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 21 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 34 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 52 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for sealed-secrets lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:33:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:13:02Z._
