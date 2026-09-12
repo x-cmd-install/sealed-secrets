@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11466,
       "digest": "sha256:ac8aabccdd9110430d117501705818115b2ab0993700a9c118d4d42cf4015a17",
-      "download_count": 1665,
+      "download_count": 4383,
       "created_at": "2026-09-10T16:10:27Z",
       "updated_at": "2026-09-10T16:10:27Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/controller.yaml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 25236810,
       "digest": "sha256:e165574e647029a562de2471caff444e06b33119f9546679e69492cdc3c6137f",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-10T16:10:25Z",
       "updated_at": "2026-09-10T16:10:26Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-darwin-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 23436482,
       "digest": "sha256:ec8a34b19ff8f1c1dee6fa09e13111b3007aa9ad08de1da28bd65cdc1eaecf93",
-      "download_count": 25,
+      "download_count": 34,
       "created_at": "2026-09-10T16:10:23Z",
       "updated_at": "2026-09-10T16:10:24Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-darwin-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 23842243,
       "digest": "sha256:9314c35916646e9d59c8f06b1314574b4e79c4d76f079433607ed7b697bb5eb7",
-      "download_count": 1037,
+      "download_count": 1509,
       "created_at": "2026-09-10T16:10:23Z",
       "updated_at": "2026-09-10T16:10:24Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-linux-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:2a37b29a085b6872651c6a3a903bbbf30669b5835f6e9131322aad20469be076",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-10T16:10:26Z",
       "updated_at": "2026-09-10T16:10:26Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-linux-amd64.tar.gz.sig"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 21552146,
       "digest": "sha256:d82f01e9226d194ca7ebc13e3619edefd596b5b433582bcec3d5a8e8b1a03123",
-      "download_count": 36,
+      "download_count": 59,
       "created_at": "2026-09-10T16:10:23Z",
       "updated_at": "2026-09-10T16:10:24Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-linux-arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 24191270,
       "digest": "sha256:e43f3208b41709f69eea03059fcfe5688152543184ee0d7454f0e6d709466821",
-      "download_count": 65,
+      "download_count": 69,
       "created_at": "2026-09-10T16:10:25Z",
       "updated_at": "2026-09-10T16:10:26Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/kubeseal-0.40.0-windows-amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 711,
       "digest": "sha256:3b189b9773487a8e48eb7dcc109455e14437113bee7aa7af0739e00106b384ca",
-      "download_count": 198,
+      "download_count": 244,
       "created_at": "2026-09-10T16:10:25Z",
       "updated_at": "2026-09-10T16:10:25Z",
       "browser_download_url": "https://github.com/bitnami/sealed-secrets/releases/download/v0.40.0/sealed-secrets_0.40.0_checksums.txt"
