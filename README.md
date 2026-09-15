@@ -31,8 +31,8 @@ Overall score: **6.8 / 10**
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Fuzzing** (0/10) — project is not fuzzed
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,286 · **Forks**: 776 · **Open issues**: 607 · **Contributors**: 183
+- **Stars**: 9,284 · **Forks**: 776 · **Open issues**: 607 · **Contributors**: 183
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-16 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-18 | 21 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-19 | 34 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-24 | 52 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-16 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-17 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-19 | 21 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-20 | 34 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-25 | 52 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for sealed-secrets lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:25:33Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:28:07Z._
