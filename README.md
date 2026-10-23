@@ -14,11 +14,11 @@ x install sealed-secrets
 
 ## Code insight
 
-Total: **16,898** lines of code across **134** files in the top 5 languages.
+Total: **17,200** lines of code across **134** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,908 | 817 | 1,509 | 63 |
+| Go | 9,210 | 834 | 1,535 | 63 |
 | Yaml | 2,320 | 400 | 31 | 32 |
 | Jsonnet | 1,514 | 208 | 189 | 23 |
 | Json | 1,405 | 0 | 0 | 9 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `helm-v2.20.0` (2026-09-10)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 9,310 · **Forks**: 785 · **Open issues**: 609 · **Contributors**: 185
+- **Stars**: 9,316 · **Forks**: 783 · **Open issues**: 609 · **Contributors**: 187
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 1168 · **Open PRs**: 4 · **Closed issues**: 545 · **Open issues**: 64 · **Commits**: 1698
+- **Releases**: 204 · **Merged PRs**: 1171 · **Open PRs**: 1 · **Closed issues**: 547 · **Open issues**: 62 · **Commits**: 1701
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 34 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 52 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 34 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 52 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for sealed-secrets lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:48:42Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:59:44Z._
