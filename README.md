@@ -41,52 +41,52 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.41.1` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Latest**: `helm-v2.22.0` (2026-10-26)
+- **Last commit**: 2026-10-26
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 9,318 · **Forks**: 783 · **Open issues**: 610 · **Contributors**: 187
+- **Stars**: 9,319 · **Forks**: 783 · **Open issues**: 610 · **Contributors**: 187
 
 ## Totals (cumulative)
 
-- **Releases**: 206 · **Merged PRs**: 1173 · **Open PRs**: 2 · **Closed issues**: 547 · **Open issues**: 63 · **Commits**: 1703
+- **Releases**: 209 · **Merged PRs**: 1177 · **Open PRs**: 2 · **Closed issues**: 547 · **Open issues**: 63 · **Commits**: 1707
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 36 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 54 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-27 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 20 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 39 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 55 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [controller-norbac.yaml](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/controller-norbac.yaml) | 8.5 KiB | `other` |
-| [controller.yaml](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/controller.yaml) | 11.2 KiB | `other` |
-| [cosign.pub](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/cosign.pub) | 178 B | `other` |
-| [kubeseal-0.41.1-darwin-amd64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-darwin-amd64.tar.gz) | 24.7 MiB | `native/darwin/x64` |
-| [kubeseal-0.41.1-darwin-amd64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-darwin-amd64.tar.gz.sig) | 96 B | `native/darwin/x64` |
-| [kubeseal-0.41.1-darwin-arm64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-darwin-arm64.tar.gz) | 22.9 MiB | `native/darwin/arm64` |
-| [kubeseal-0.41.1-darwin-arm64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-darwin-arm64.tar.gz.sig) | 96 B | `native/darwin/arm64` |
-| [kubeseal-0.41.1-linux-amd64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-linux-amd64.tar.gz) | 23.6 MiB | `native/linux/x64` |
-| [kubeseal-0.41.1-linux-amd64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-linux-amd64.tar.gz.sig) | 96 B | `native/linux/x64` |
-| [kubeseal-0.41.1-linux-arm.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-linux-arm.tar.gz) | 22.0 MiB | `native/linux/arm` |
-| [kubeseal-0.41.1-linux-arm.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-linux-arm.tar.gz.sig) | 96 B | `native/linux/arm` |
-| [kubeseal-0.41.1-linux-arm64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-linux-arm64.tar.gz) | 21.2 MiB | `native/linux/arm64` |
-| [kubeseal-0.41.1-linux-arm64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-linux-arm64.tar.gz.sig) | 96 B | `native/linux/arm64` |
-| [kubeseal-0.41.1-linux-ppc64le.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-linux-ppc64le.tar.gz) | 21.5 MiB | `native/unknown` |
-| [kubeseal-0.41.1-linux-ppc64le.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-linux-ppc64le.tar.gz.sig) | 96 B | `other` |
-| [kubeseal-0.41.1-windows-amd64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-windows-amd64.tar.gz) | 23.8 MiB | `native/win/x64` |
-| [kubeseal-0.41.1-windows-amd64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/kubeseal-0.41.1-windows-amd64.tar.gz.sig) | 96 B | `native/win/x64` |
-| [sealed-secrets_0.41.1_checksums.txt](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/sealed-secrets_0.41.1_checksums.txt) | 711 B | `other` |
-| [sealed-secrets_0.41.1_checksums.txt.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.1/sealed-secrets_0.41.1_checksums.txt.sig) | 96 B | `other` |
+| [controller-norbac.yaml](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/controller-norbac.yaml) | 8.5 KiB | `other` |
+| [controller.yaml](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/controller.yaml) | 11.2 KiB | `other` |
+| [cosign.pub](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/cosign.pub) | 178 B | `other` |
+| [kubeseal-0.41.2-darwin-amd64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-darwin-amd64.tar.gz) | 24.7 MiB | `native/darwin/x64` |
+| [kubeseal-0.41.2-darwin-amd64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-darwin-amd64.tar.gz.sig) | 96 B | `native/darwin/x64` |
+| [kubeseal-0.41.2-darwin-arm64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-darwin-arm64.tar.gz) | 22.9 MiB | `native/darwin/arm64` |
+| [kubeseal-0.41.2-darwin-arm64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-darwin-arm64.tar.gz.sig) | 96 B | `native/darwin/arm64` |
+| [kubeseal-0.41.2-linux-amd64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-linux-amd64.tar.gz) | 23.6 MiB | `native/linux/x64` |
+| [kubeseal-0.41.2-linux-amd64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-linux-amd64.tar.gz.sig) | 96 B | `native/linux/x64` |
+| [kubeseal-0.41.2-linux-arm.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-linux-arm.tar.gz) | 22.0 MiB | `native/linux/arm` |
+| [kubeseal-0.41.2-linux-arm.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-linux-arm.tar.gz.sig) | 96 B | `native/linux/arm` |
+| [kubeseal-0.41.2-linux-arm64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-linux-arm64.tar.gz) | 21.2 MiB | `native/linux/arm64` |
+| [kubeseal-0.41.2-linux-arm64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-linux-arm64.tar.gz.sig) | 96 B | `native/linux/arm64` |
+| [kubeseal-0.41.2-linux-ppc64le.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-linux-ppc64le.tar.gz) | 21.5 MiB | `native/unknown` |
+| [kubeseal-0.41.2-linux-ppc64le.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-linux-ppc64le.tar.gz.sig) | 96 B | `other` |
+| [kubeseal-0.41.2-windows-amd64.tar.gz](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-windows-amd64.tar.gz) | 23.8 MiB | `native/win/x64` |
+| [kubeseal-0.41.2-windows-amd64.tar.gz.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/kubeseal-0.41.2-windows-amd64.tar.gz.sig) | 96 B | `native/win/x64` |
+| [sealed-secrets_0.41.2_checksums.txt](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/sealed-secrets_0.41.2_checksums.txt) | 711 B | `other` |
+| [sealed-secrets_0.41.2_checksums.txt.sig](https://github.com/bitnami-labs/sealed-secrets/releases/download/v0.41.2/sealed-secrets_0.41.2_checksums.txt.sig) | 96 B | `other` |
 
 ## Improve this data
 
@@ -97,4 +97,4 @@ Install metadata for sealed-secrets lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:51:42Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:18:45Z._
